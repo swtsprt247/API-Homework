@@ -1,4 +1,4 @@
-# WhatsTheWeatherLike
+https://github.com/swtsprt247/WhatsTheWeatherLike# WhatsTheWeatherLike
 For this project, Python was used to create a script to visualize the weather of 500+ cities across the world of varying distance from the equator.
 
 
@@ -15,15 +15,15 @@ To accomplish the project [citipy](https://pypi.org/project/citipy/) and [OpenWe
 # Inspiring Visualizations
 
 Latitude vs. Cloudiness
-![Lat vs. Cloudiness](/images/City_Lat vs Cloudiness.png)
+![Lat vs. Cloudiness](https://github.com/swtsprt247/WhatsTheWeatherLike/images/City_Lat vs Cloudiness.png)
 
 Latitude vs. Humidity
-![Lat vs. Humidity](/images/City_Lat vs Humidity.png)
+![Lat vs. Humidity](https://github.com/swtsprt247/WhatsTheWeatherLike/images/City_Lat vs Humidity.png)
 
 Latitude vs. Temperature
-![Lat vs. Temperature](/images/City_Lat vs Temperature.png)
+![Lat vs. Temperature](https://github.com/swtsprt247/WhatsTheWeatherLike/images/City_Lat vs Temperature.png)
 
 Latitude vs. Wind Speed
-![Lat vs. Wind Speed](/images/City_Lat vs Wind Speed.png)
+![Lat vs. Wind Speed](https://github.com/swtsprt247/WhatsTheWeatherLike/images/City_Lat vs Wind Speed.png)
 
 
