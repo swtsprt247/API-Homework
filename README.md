@@ -15,15 +15,15 @@ To accomplish the project [citipy](https://pypi.org/project/citipy/) and [OpenWe
 # Inspiring Visualizations
 
 Latitude vs. Cloudiness
-![Lat vs. Cloudiness](https://github.com/swtsprt247/WhatsTheWeatherLike/images/City_Lat vs Cloudiness.png)
+![Lat vs. Cloudiness](/images/Cloudiness.png)
 
 Latitude vs. Humidity
-![Lat vs. Humidity](https://github.com/swtsprt247/WhatsTheWeatherLike/images/City_Lat vs Humidity.png)
+![Lat vs. Humidity](/images/Humidity.png)
 
 Latitude vs. Temperature
-![Lat vs. Temperature](https://github.com/swtsprt247/WhatsTheWeatherLike/images/City_Lat vs Temperature.png)
+![Lat vs. Temperature](/images/Temperature.png)
 
 Latitude vs. Wind Speed
-![Lat vs. Wind Speed](https://github.com/swtsprt247/WhatsTheWeatherLike/images/City_Lat vs Wind Speed.png)
+![Lat vs. Wind Speed](/images/Wind Speed.png)
 
 
