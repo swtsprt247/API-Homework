@@ -24,6 +24,6 @@ Latitude vs. Temperature
 ![Lat vs. Temperature](/images/Temperature.png)
 
 Latitude vs. Wind Speed
-![Lat vs. Wind Speed](/images/Wind Speed.png)
+![Lat vs. Wind Speed](/images/Wind_Speed.png)
 
 
